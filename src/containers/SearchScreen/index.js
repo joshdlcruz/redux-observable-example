@@ -46,7 +46,7 @@ class SearchScreen extends Component<{}> {
                 >
                     <TextInput
                         style={{
-                            height: 30,
+                            //height: 30,
                             width: '80%',
                             borderColor: '#36fbe4',
                             borderWidth: 1,
@@ -58,7 +58,7 @@ class SearchScreen extends Component<{}> {
                     />
                     <TouchableOpacity
                         style={{
-                            height: 30,
+                            //height: 30,
                             borderWidth: 1,
                             borderColor: 'blue',
                             backgroundColor: '#def436'
